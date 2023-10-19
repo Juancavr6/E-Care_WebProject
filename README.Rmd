@@ -1,0 +1,8 @@
+Integrantes:
+- Raúl Ángel Castro Valderas
+- Yussef Barakat Nieto
+- Juan Carlos Vergara Ruz
+
+Aplicación de Rastreo y Gestión de Enfermedades Crónicas:
+
+En este proyecto crearemos un sistema que permita a los pacientes rastrear y gestionar su enfermedad crónica, como la diabetes, la hipertensión, etc. Además, esta contará con recordatorios de medicamentos y seguimiento de síntomas por parte de los médicos.

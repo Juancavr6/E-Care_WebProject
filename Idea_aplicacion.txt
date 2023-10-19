@@ -1,4 +1,0 @@
-Aplicación de Rastreo y Gestión de Enfermedades Crónicas:
-
-Un sistema que permita a los pacientes rastrear y gestionar su enfermedad crónica, como la diabetes, la hipertensión, etc.
-Recordatorios de medicamentos y seguimiento de síntomas.
