@@ -1,3 +1,6 @@
 [submodule "ing_web_backend"]
 	path = ing_web_backend
 	url = https://github.com/Juancavr6/ing_web_backend
+[submodule "ing_web_frontend"]
+	path = ing_web_frontend
+	url = https://github.com/Juancavr6/ing_web_frontend
